@@ -11,7 +11,7 @@ will restart crashed applications.
 ## Installation
 
 ```sh
-git clone https://github.com/statianzo/dokku-supervisord.git /var/lib/dokku/plugins/dokku-supervisord
+git clone https://github.com/brianpattison/dokku-supervisord.git /var/lib/dokku/plugins/dokku-supervisord
 dokku plugins-install
 ```
 
